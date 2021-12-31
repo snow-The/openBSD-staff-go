@@ -5,6 +5,7 @@ OpenBSD入門啦
 https://wiki.ircnow.org/?n=Minutemin.Bootcamp 
 doas--完成   
 ngircd    
+-爲了TLS，我先去弄了acme-client  
 httpd  
 acme-client  
 znc  
