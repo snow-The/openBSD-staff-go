@@ -3,8 +3,8 @@
 OpenBSD入門啦  
 學習地圖  
 https://wiki.ircnow.org/?n=Minutemin.Bootcamp 
-doas 
-ngircd  
+doas   
+ngircd    
 httpd  
 acme-client  
 znc  
